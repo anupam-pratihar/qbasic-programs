@@ -1,0 +1,6 @@
+Cls
+Let a = 50
+Let b = 10
+Let c = a - b
+Print "Difference ="; c
+End
