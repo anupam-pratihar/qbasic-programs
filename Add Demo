@@ -1,6 +1,0 @@
-Cls
-Let a = 5
-Let b = 10
-Let c = a + b
-Print "total ="; c
-End
